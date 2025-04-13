@@ -16,6 +16,8 @@ Sistema Operativo (Cualquier distribución de Linux, yo he usado Kali)
 5. Ejecuta el servidor (python3 servidor.py)
 6. Usar con http://localhost:5000 o desde otro dispositivo que esté en la misma red local pegando en el navegador el url que te de el servidor python
 
+IMPORTANTE: En caso de usar máquina virtual, asegurate que tienes la configuración de red en modo puente (briedged adapter)
+
 #Resultado: 
 ![image](https://github.com/user-attachments/assets/792b05a5-ce1e-4d2a-9a36-82233fb4aa5b)
 
