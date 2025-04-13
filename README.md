@@ -15,3 +15,6 @@ Sistema Operativo (Cualquier distribución de Linux, yo he usado Kali)
 4. Crea una carpeta para las descargas (La ruta que está en el servidor.py es ~/Desktop/descargas_youtube)
 5. Ejecuta el servidor (python3 servidor.py)
 6. Usar con http://localhost:5000 o desde otro dispositivo que esté en la misma red local pegando en el navegador el url que te de el servidor python
+
+#Resultado: 
+![image](https://github.com/user-attachments/assets/09b25359-25ab-4cc9-a0e1-a00cf6e88718)
