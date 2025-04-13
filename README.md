@@ -1,5 +1,5 @@
 # Servidor-descarga-YT-a-mp4-en-local
-Proyecto que permite ejecutar en una red local un servidor que descarga videos de Youtube en mp4. 
+Proyecto que permite ejecutar en una red local un servidor que descarga videos de Youtube en mp4. Este servidor simplemente te permite pegar la dirección URL de un vídeo de Youtube, te muestra una barrita con el progreso de la descarga, al terminar descarga el vídeo y además tiene un historial de descargas. 
 
 #Requisitos
 Python 3
